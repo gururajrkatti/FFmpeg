@@ -2,6 +2,7 @@ language: c
 arch:
   - amd64
   - ppc64le
+dist: focal
 sudo: false
 os:
   - linux
